@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Mapping</key>
+			<string>email</string>
+			<key>Field</key>
+			<string>Email</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>password</string>
+			<key>Field</key>
+			<string>Password</string>
+			<key>Cell</key>
+			<string>secureTextCell</string>
+		</dict>
+	</array>
+</array>
+</plist>

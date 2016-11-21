@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Mapping</key>
+			<string>first_name</string>
+			<key>Field</key>
+			<string>First Name</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>surname</string>
+			<key>Field</key>
+			<string>Surname</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>vehicle_registration</string>
+			<key>Field</key>
+			<string>Vehicle Registration Number</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>telephone_number</string>
+			<key>Field</key>
+			<string>Mobile Number</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>email</string>
+			<key>Field</key>
+			<string>Email Address</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>address</string>
+			<key>Field</key>
+			<string>Postal Address</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>insurer</string>
+			<key>Field</key>
+			<string>Insurer</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>password</string>
+			<key>Field</key>
+			<string>Password</string>
+			<key>Cell</key>
+			<string>secureTextCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>password_confirmation</string>
+			<key>Field</key>
+			<string>Confirm Password</string>
+			<key>Cell</key>
+			<string>secureTextCell</string>
+		</dict>
+	</array>
+</array>
+</plist>

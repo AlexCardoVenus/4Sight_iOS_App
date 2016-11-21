@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Mapping</key>
+			<string>registration_number</string>
+			<key>Field</key>
+			<string>Vehicle Registration Number</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>driver_name</string>
+			<key>Field</key>
+			<string>Driver&apos;s Name</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>insurance_company</string>
+			<key>Field</key>
+			<string>Vehicle Insurance Company</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+		<dict>
+			<key>Mapping</key>
+			<string>insurance_policy_number</string>
+			<key>Field</key>
+			<string>Insurance Policy Number</string>
+			<key>Cell</key>
+			<string>textCell</string>
+		</dict>
+	</array>
+</array>
+</plist>
